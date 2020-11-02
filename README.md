@@ -1,3 +1,3 @@
 # testrepo
-This repository was created a a training with Coursera. 
+This repository was created as a training with Coursera. 
 My name is Anton
